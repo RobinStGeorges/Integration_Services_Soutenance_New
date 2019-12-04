@@ -2,13 +2,18 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Integration_Services_Soutenance_New</Name>
-    <LastWriteTime>2019-12-04T13:41:20.4957684Z</LastWriteTime>
+    <LastWriteTime>2019-12-04T15:52:29.9824506Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Package.dtsx</Name>
-      <LastWriteTime>2019-12-04T14:14:17.7129263Z</LastWriteTime>
+      <LastWriteTime>2019-12-04T15:56:40.0356044Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Load_TPAdventureWorks.dtsx</Name>
+      <LastWriteTime>2019-12-04T14:51:12.6881535Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
